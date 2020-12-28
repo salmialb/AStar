@@ -1,2 +1,2 @@
 # AStar
-A* pathfinding algorithm projekt for school
+A* pathfinding algorithm project for school
